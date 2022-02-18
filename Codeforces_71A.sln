@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Codeforces_71A", "Codeforces_71A.vcxproj", "{27437D77-BC3B-479A-8B30-44CCF80B538F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27437D77-BC3B-479A-8B30-44CCF80B538F}.Debug|x64.ActiveCfg = Debug|x64
+		{27437D77-BC3B-479A-8B30-44CCF80B538F}.Debug|x64.Build.0 = Debug|x64
+		{27437D77-BC3B-479A-8B30-44CCF80B538F}.Release|x64.ActiveCfg = Release|x64
+		{27437D77-BC3B-479A-8B30-44CCF80B538F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBEF66F7-FF32-4884-BC64-5723D128C1D8}
+	EndGlobalSection
+EndGlobal
